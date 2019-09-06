@@ -1,0 +1,9 @@
+/*
+!dist
+!.gitignore
+!*.html
+!css
+!js
+!img
+!*.ico
+node_modules
